@@ -7,6 +7,7 @@ public class Gnombre1Nombre2 {
 int edad;
 
 edad=33;
+System.out.println("esto es un conflicto");
 		System.out.println("mi nombre es juan ");
 		
 		System.out.println("mi segundo nombre es ignacio");
@@ -14,10 +15,10 @@ edad=33;
 		System.out.println("y tengo "+edad+" años");
 		
 		if(edad>=33) {
-		System.out.println("persona mayor");	
+		System.out.println("soy una persona mayor");	
 			
 		}else {
-		System.out.println("persona joven");	
+		System.out.println("soy una persona joven");	
 		}
 		
 		
