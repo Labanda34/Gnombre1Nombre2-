@@ -12,6 +12,15 @@ edad=33;
 		System.out.println("mi segundo nombre es ignacio");
 		
 		System.out.println("y tengo "+edad+" años");
+		
+		if(edad>=33) {
+		System.out.println("persona mayor");	
+			
+		}else {
+		System.out.println("persona joven");	
+		}
+		
+		
 	}
 
 }
