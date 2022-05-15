@@ -4,6 +4,11 @@ public class Casa {
 Scanner teclado=new Scanner (System.in);
 String calle;
 int num,cp;
+
+Casa(){
+	
+}
+
 void Direccion () {
 System.out.println("teclea nombre la calle");
 calle=teclado.next();
